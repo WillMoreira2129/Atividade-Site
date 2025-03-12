@@ -1,0 +1,27 @@
+body{
+    background-color:#e7e1e1;
+    color: hsl(0, 0%, 0%);
+}
+
+header {
+    background-color: #d86834;
+    border: 1px solid;
+    font-weight: 100;
+    margin-bottom: 20px;
+    padding: 8px 20px;
+
+   }
+
+.login {
+    text-align: center;
+    margin-top: 15%;
+    background-color: #ce50079d;
+    padding: 50px;
+    border-radius: 30px;
+    margin-right: 750px;
+    margin-left: 750px;
+}
+
+
+
+  
