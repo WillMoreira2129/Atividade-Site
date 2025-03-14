@@ -22,6 +22,12 @@ header {
     margin-left: 750px;
 }
 
-
+.mybutton{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #b4400a;
+    color: rgb(12, 12, 54);
+}
 
   
